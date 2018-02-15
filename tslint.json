@@ -1,0 +1,6 @@
+{
+  "extends": ["./tslint.angular-cli.json", "tslint-config-prettier"],
+  "rules": {
+    "deprecation": false
+  }
+}
